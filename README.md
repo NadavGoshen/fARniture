@@ -1,2 +1,2 @@
 # fARniture
-App demo - placing 3D objects (furnitures) with AR technology.
+App demo - Plan your room's furniture layout by placing and playing around with furnitures (3D models) using AR technology.
